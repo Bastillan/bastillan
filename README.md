@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a third year Computer Science student at the Warsaw University of Technology.
+I am a third-year Computer Science student at the Warsaw University of Technology.
 
 I speak Polish (native), English (C1 - CAE certificate) *y un poco Español*.
 
