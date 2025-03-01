@@ -1,7 +1,5 @@
 # Hi there 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bastillan.bastillan)
-
 I am a third year Computer Science student at the Warsaw University of Technology.
 
 I speak Polish (native), English (C1 - CAE certificate) *y un poco Español*.
@@ -10,6 +8,7 @@ I am passionate about Sofware Engineering, C++, Python, as well as the applicati
 
 I am also a novice Emacs enthusiast.
 
+![Repos per language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bastillan&theme=cobalt2) ![Commits per language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bastillan&theme=cobalt2)
 
 <!--
 **Bastillan/bastillan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
