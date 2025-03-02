@@ -8,7 +8,7 @@ I am passionate about Sofware Engineering, C++, Python, as well as the applicati
 
 I am also a novice Emacs enthusiast.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bastillan&layout=donut&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bastillan&layout=donut&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Bastillan/bastillan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
